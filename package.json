@@ -1,0 +1,11 @@
+{
+  "name": "locadora_de_filmes_digital",
+  "version": "1.0.0",
+  "description": "Locadora de filmes digital",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
